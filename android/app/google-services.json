@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120588919461",
+    "project_id": "chat-app-bafca",
+    "storage_bucket": "chat-app-bafca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120588919461:android:714031edc16f150a18e34c",
+        "android_client_info": {
+          "package_name": "com.example.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120588919461-pfqpv8mknj7fd6e80v0numuha58845ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatting_app",
+            "certificate_hash": "446c3c4fa57aebd6f20a45334611f7f9e40f7e63"
+          }
+        },
+        {
+          "client_id": "120588919461-59l1rrd3a98pnjmv31cgpceru5on1mtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-RfPCHxqmXPkZDqEIkdACyXCkYie6s7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120588919461-59l1rrd3a98pnjmv31cgpceru5on1mtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
